@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-media-plugin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.3",
+    "obsidian": "^1.5.0"
+  }
+}
